@@ -3,6 +3,6 @@
 
 This app was built as part of 'iOS & Swift - The complete iOS App Development Bootcamp' by Dr Angela Yu.
 
-# What I Learned
-- Randomisation
+# Required Skills
+- Use of randomisation of array values
 - Use of UIImages in Arrays
